@@ -24,16 +24,17 @@ Et løbespil med tre baner. Skift bane for at undgå spikes, mens farten stiger.
 
 | Baggrund | Animation |
 |---|---|
-| Skumring | En flok fugle flyver forbi |
-| Midnat, Nordlys | Stjerneskud (Nordlys har også nordlys, der bølger) |
-| Ørken | En tumbleweed ruller forbi |
-| Skov | Et blad falder ned |
+| Skumring | En flok fugle flyver forbi, og stjerneskud |
+| Midnat | Stjerneskud og en flagermus |
+| Nordlys | Nordlys der bølger, stjerneskud og en kort snebyge |
+| Ørken | En tumbleweed ruller forbi, og en grib kredser |
+| Skov | Et blad falder ned, og en flok fugle flyver forbi |
 | Havet | En delfin springer |
 | Slikland | En luftballon svæver forbi |
-| Vulkan | Vulkanen sprøjter lava, og gnister stiger op |
+| Vulkan | Vulkanen sprøjter lava og ryger, og gnister stiger op |
 | Storby | Et fly blinker forbi, og vinduer tænder og slukker |
 | Uvejr | Lyn (slået fra ved reduceret bevægelse) |
-| Cyber | En scanlinje glider ned over himlen |
+| Cyber | En scanlinje glider ned over himlen, og en drone scanner vejen |
 | Rummet | En ufo flyver forbi og stjerneskud |
 
 ## Kør lokalt
@@ -44,6 +45,6 @@ Der er ingen build. Åbn `index.html` i en browser, eller start en statisk serve
 python3 -m http.server 8000
 ```
 
-Mønter, rekord og køb gemmes i browserens `localStorage`.
+Mønter, rekord og køb gemmes i browserens `localStorage`. Du kan nulstille dem med knappen "Nulstil fremskridt" i butikken.
 
 Spillet ligger også på [Legepladsen](https://github.com/viso-collab/legepladsen).
