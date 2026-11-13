@@ -18,9 +18,23 @@ Et løbespil med tre baner. Skift bane for at undgå spikes, mens farten stiger.
 ## Mønter og butik
 
 - De fleste mønter ligger midt i mellemrummet mellem to rækker i en blokeret bane. Du skal ind og tage dem og ud igen før næste række. Enkelte mønter ligger i en fri bane.
-- **Skins:** Klassisk (gratis), Lava (25), Mintstribe (40), Skakbræt (60), Spøgelse (90), Galakse (150), Ren guld (300).
-- **Baggrunde:** Skumring (gratis), Midnat (50), Ørken (80), Skov (100), Nordlys (120), Vulkan (180), Cyber (250).
-- Baggrundene står stille. Nogle har en lille animation: et blad der falder i Skov, stjerneskud i Midnat, nordlys der bølger og gnister i Vulkan.
+- **Skins (15):** Klassisk (gratis), Lava (25), Vandmelon (35), Mintstribe (40), Skakbræt (60), Kat (70), Spøgelse (90), Robot (110), Isterning (130), Galakse (150), Regnbue (200), Ildhoved (220), Diskokugle (260), Ren guld (300), Tomrum (400).
+- **Baggrunde (12):** Skumring (gratis), Midnat (50), Ørken (80), Skov (100), Nordlys (120), Havet (140), Slikland (160), Vulkan (180), Storby (200), Uvejr (230), Cyber (250), Rummet (320).
+- Baggrundene står stille, men hver har en lille animation, der sker en gang imellem:
+
+| Baggrund | Animation |
+|---|---|
+| Skumring | En flok fugle flyver forbi |
+| Midnat, Nordlys | Stjerneskud (Nordlys har også nordlys, der bølger) |
+| Ørken | En tumbleweed ruller forbi |
+| Skov | Et blad falder ned |
+| Havet | En delfin springer |
+| Slikland | En luftballon svæver forbi |
+| Vulkan | Vulkanen sprøjter lava, og gnister stiger op |
+| Storby | Et fly blinker forbi, og vinduer tænder og slukker |
+| Uvejr | Lyn (slået fra ved reduceret bevægelse) |
+| Cyber | En scanlinje glider ned over himlen |
+| Rummet | En ufo flyver forbi og stjerneskud |
 
 ## Kør lokalt
 
